@@ -66,5 +66,5 @@ yarn-error.log
 /coverage
 
 
-key1
-key1.pub
+/key1
+/key1.pub
