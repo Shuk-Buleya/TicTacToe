@@ -4,3 +4,5 @@ A classic game of Tic Tac Toe implemented in React Native CLI with a clean and s
 # Features
 - Multiplayer Support
 - Works on Both Android and iOS
+
+# How To Launch
